@@ -5,10 +5,10 @@
     "build": "webpack --config webpack.config.js"
   },
   "dependencies": {
+    "@likethemammal/react-primitives": "^0.4.5",
     "components": "file:../../",
-    "react": "^15.4.2",
-    "react-dom": "^15.4.2",
-    "react-primitives": "^0.4.4",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
     "webpack": "^3.10.0"
   },
   "devDependencies": {

@@ -22,9 +22,9 @@ module.exports = {
       amd: "ReactDOM",
       root: "ReactDOM"
     },
-    "react-primitives": {
-      commonjs: "react-primitives",
-      commonjs2: "react-primitives",
+    "@likethemammal/react-primitives": {
+      commonjs: "@likethemammal/react-primitives",
+      commonjs2: "@likethemammal/react-primitives",
       amd: "ReactPrimitives",
       root: "ReactPrimitives"
     }
